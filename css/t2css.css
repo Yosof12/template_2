@@ -163,6 +163,9 @@ padding: 38px 10px 38px;
 header .head {
 padding: 0 10px;
 }
+header .head .right {
+justify-content: flex-end;
+}
 header .head .right ul {
 display: none;
 }
